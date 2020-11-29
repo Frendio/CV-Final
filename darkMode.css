@@ -8,7 +8,6 @@
 
 body{
     background-color: #18181a;
-    /* background-image: url("image/bg1.jpg"); */
     background-size:contain;   
     
 }
@@ -24,7 +23,7 @@ nav{
 }
 nav ul{
     
-    background: #313131;
+    background: #18181a;
     list-style: none;
     position: relative;
     display: inline-table;
@@ -40,7 +39,7 @@ nav ul li:hover{
     
 }
 nav ul li:hover a{
-    color: #313131;
+    color: #18181a;
 }
 nav ul li a{
     
@@ -103,7 +102,7 @@ td{
     color: white;
 }
 #education{
-    background-color: #414141;
+    background-color: #18181a;
 }
 #biodata{
     
@@ -112,10 +111,10 @@ td{
 
 }
 #skills{
-    background-color: #414141;
+    background-color: #18181a;
 }
 #contactme{
-    background-color: #414141;
+    background-color: #18181a;
 }
 textarea{
     color: black;

@@ -1,0 +1,126 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: fantasy;
+    color: white;
+    
+}
+
+body{
+    background-color: #18181a;
+    /* background-image: url("image/bg1.jpg"); */
+    background-size:contain;   
+    
+}
+
+nav{
+    position: fixed;
+    
+    margin: auto;
+    text-align: center;
+    font-family: fantasy;
+    width: 100%;
+    font-size: 20px;
+}
+nav ul{
+    
+    background: #313131;
+    list-style: none;
+    position: relative;
+    display: inline-table;
+    width: 100%;
+    padding: 0 20px;
+}
+nav ul li{
+    float: left;
+}
+nav ul li:hover{
+    background: #0c0c0c;
+    
+    
+}
+nav ul li:hover a{
+    color: #313131;
+}
+nav ul li a{
+    
+    display: block;
+    padding: 20px;
+    color: #ffffff;
+    text-decoration: none;
+}
+.home {
+    
+    padding:0;
+    
+    
+    
+    
+}
+
+h1 {
+    
+    font: outline ;
+    text-shadow: 1px 1px 1px rgb(8, 8, 8);
+    color: whitesmoke;
+}
+p {
+    color: whitesmoke;
+    padding: 5px;
+}
+
+
+
+.fa {
+    padding: 20px;
+    font-size: 32px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+  .sosmed :hover{
+      opacity: 50%;
+  }
+  
+  li{
+      color: rgb(252, 248, 248);
+  }
+
+
+.list-pendidikan{
+    padding: 50px;
+}
+td{
+    font-size: 10px;
+    text-shadow: 1px 1px 1px rgb(8, 8, 8);
+    color: white;
+}
+#education{
+    background-color: #414141;
+}
+#biodata{
+    
+    background-color: #18181a;
+    
+
+}
+#skills{
+    background-color: #414141;
+}
+#contactme{
+    background-color: #414141;
+}
+textarea{
+    color: black;
+}
+
+input{
+    color: black;
+}
